@@ -37,4 +37,4 @@ jobs:
                   git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
             - name: Deploy
-              run: npx gh-pages -d build -t true --token ${{ secrets.GITHUB_TOKEN }}
+              run: npx gh-pages -d build -t true -r https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
