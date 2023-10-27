@@ -14,8 +14,8 @@
 <Cover />
 <About />
 <HowItWorks />
-<!-- <Screens />
-<Testimonials /> -->
+<Screens />
+<Testimonials />
 <Footer />
 
 <style>

@@ -1,58 +1,48 @@
 <div class='all'>
-<div class='row'>
-<h2>Users have said...</h2>
+    <h2>Users have said...</h2>
 
-<div class="testimonials">
+    <div class="testimonials">
 
-  <div class="testimonial">
-    <div class="message">
-      <p>Upcycle! is amazing! I've been able to find so many great secondhand clothes on here, and it's really helped me reduce my environmental impact.</p>
+      <div class="testimonial">
+        <div class="message">
+          <p>Upcycle! is amazing! I've been able to find so many great secondhand clothes on here, and it's really helped me reduce my environmental impact.</p>
+        </div>
+        <div class="author">- Sarah J.</div>
+      </div>
+
+      <div class="testimonial">
+        <div class="message">
+          <p>I love Upcycle! because it's so easy to use and I can find clothes that fit my style without breaking the bank. Plus, I feel good knowing that I'm supporting sustainable fashion practices.</p>
+        </div>
+        <div class="author">- Alex K.</div>
+      </div>
+
+      <div class="testimonial">
+        <div class="message">
+          <p>Upcycle! has been a game-changer for me. I used to feel guilty about buying new clothes all the time, but now I can shop guilt-free and even sell my own clothes to others who will appreciate them.</p>
+        </div>
+        <div class="author">- Emily L.</div>
+      </div>
     </div>
-    <div class="author">- Sarah J.</div>
-  </div>
-
-  <div class="testimonial">
-    <div class="message">
-      <p>I love Upcycle! because it's so easy to use and I can find clothes that fit my style without breaking the bank. Plus, I feel good knowing that I'm supporting sustainable fashion practices.</p>
-    </div>
-    <div class="author">- Alex K.</div>
-  </div>
-
-  <div class="testimonial">
-    <div class="message">
-      <p>Upcycle! has been a game-changer for me. I used to feel guilty about buying new clothes all the time, but now I can shop guilt-free and even sell my own clothes to others who will appreciate them.</p>
-    </div>
-    <div class="author">- Emily L.</div>
-  </div>
-</div>
-</div>
 </div>
 
 <style>
   .all {
     margin-top: 240px;
+    text-align: center;
   }
 
   h2 {
     font-size: 48px;
-    align-self: baseline;
     font-family: 'Prata', serif;
-  }
-
-  .row {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    height: 80vh;
-    margin: 96px;
   }
 
   .testimonials {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    margin-top: -96px;
+    gap: 48px;
+    padding: 24px 96px;
   }
 
   .testimonial {
@@ -61,6 +51,7 @@
     align-items: center;
     margin: 1rem 0;
     max-width: 80%;
+    height: 240px;
   }
 
   .testimonial .message {
