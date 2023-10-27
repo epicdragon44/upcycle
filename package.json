@@ -12,6 +12,11 @@
     "@sveltejs/kit": "^1.25.1",
     "gh-pages": "^6.0.0",
     "svelte": "^4.2.1",
+    "svelte-preprocess-import-assets": "^1.0.1",
     "vite": "^4.4.10"
+  },
+  "dependencies": {
+    "@fontsource/prata": "^5.0.17",
+    "lucide-svelte": "^0.289.0"
   }
 }
