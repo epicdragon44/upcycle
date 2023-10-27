@@ -3,7 +3,7 @@
     <div class='row'>
     <img src="$lib/assets/mockup-1.png" alt="Mockup of app 1">
     <div class="text">
-      <h2>Panel 1 Title</h2>
+      <h2>Step 1</h2>
       <p>Our Home Page allows you to begin shopping in other closets. You are able to search for items to add to your 'new' wardrobe!</p>
     </div>
   </div>
@@ -13,7 +13,7 @@
     <div></div>
     <div class='row'>
     <div class="text-right">
-      <h2>Panel 2 Title</h2>
+      <h2>Step 2</h2>
       <p>Click on Swap Now! for real-time notifications for swap requests, messages, and confirmations.
         <br><br>
         Contact a member you want to express an interest in something in their closet, and ask them if there's anything in your closet they'd be interested in swapping or giving away.  
@@ -27,7 +27,7 @@
     <img src="$lib/assets/mockup-3.png" alt="Mockup of app 3">
     
     <div class="text">
-      <h2>Panel 3 Title</h2>
+      <h2>Step 3</h2>
       <p>This is a smart matching feature that is designed to facilitate connections between individuals and tailors who are interested in upcycling. It allows you to bring new life to your favorite pre-loved items by making something new out of something old! You will input your zip code, and upcycling tailors near you will pop up!       </p>
     </div>
     <div></div>
