@@ -1,4 +1,5 @@
 <script>
+  import { base } from '$app/paths';
   export let currentPage = "";
 </script>
 
@@ -7,9 +8,9 @@
       <h1>CycleUp!</h1>
   </div>
   <div class='links'>
-      <a href="/" class={currentPage === 'home' ? 'active' : ''}>Home</a>
-      <a href="/about" class={currentPage === 'about' ? 'active' : ''}>About Us</a>
-      <a href="/news" class={currentPage === 'news' ? 'active' : ''}>News</a>
+      <a href="{base}/" class={currentPage === 'home' ? 'active' : ''}>Home</a>
+      <a href="{base}/about" class={currentPage === 'about' ? 'active' : ''}>About Us</a>
+      <a href="{base}/news" class={currentPage === 'news' ? 'active' : ''}>News</a>
   </div>
 </nav>
 
