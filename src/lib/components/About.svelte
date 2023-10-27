@@ -3,7 +3,7 @@
 
 <div class="container">
   <div class="image-container">
-    <img src="$lib/assets/closet.jpg" alt="About Image" />
+    <img src="/images/closet.jpg" alt="About Image" />
   </div>
   
   <div class="text-container">

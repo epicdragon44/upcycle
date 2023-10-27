@@ -29,8 +29,12 @@ jobs:
 
             - name: Setup Git
               run: |
-                  git config --global user.email "weidaniel15@gmail.com"
-                  git config --global user.name "Daniel Wei"
+                  git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+                  git config --global user.name "${{ github.actor }}"
+
+            - name: Setup Git for GitHub Token
+              run: |
+                  git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
             - name: Deploy
               run: yarn deploy

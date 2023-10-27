@@ -1,7 +1,7 @@
 <div class="container">
   <div class="panel">
     <div class='row'>
-    <img src="$lib/assets/mockup-1.png" alt="Mockup of app 1">
+    <img src="/images/mockup-1.png" alt="Mockup of app 1">
     <div class="text">
       <h2>Step 1</h2>
       <p>Our Home Page allows you to begin shopping in other closets. You are able to search for items to add to your 'new' wardrobe!</p>
@@ -19,12 +19,12 @@
         Contact a member you want to express an interest in something in their closet, and ask them if there's anything in your closet they'd be interested in swapping or giving away.  
         </p>
     </div>
-    <img src="$lib/assets/mockup-2.png" alt="Mockup of app 2">
+    <img src="/images/mockup-2.png" alt="Mockup of app 2">
   </div>
   </div>
   <div class="panel">
     <div class='row'>
-    <img src="$lib/assets/mockup-3.png" alt="Mockup of app 3">
+    <img src="/images/mockup-3.png" alt="Mockup of app 3">
     
     <div class="text">
       <h2>Step 3</h2>
