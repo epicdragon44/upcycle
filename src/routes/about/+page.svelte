@@ -18,25 +18,25 @@
     </div>
     <div class="flex-container">
       <div class="flex-item">
-        <img src="https://via.placeholder.com/150" alt="Team Member 1">
+        <img src="/images/katie.png" alt="Team Member 1">
         <p>Katie Lee<br>
           New West Charter High School<br>
           Los Angeles, CA
         </p>
       </div>
       <div class="flex-item">
-        <img src="https://via.placeholder.com/150" alt="Team Member 2">
+        <img src="/images/janet.png" alt="Team Member 2">
         <p>Janet Ani<br>
           California Academy of Mathematics and Science <br>
           Carson,CA </p>
       </div>
       <div class="flex-item">
-        <img src="https://via.placeholder.com/150" alt="Team Member 3">
+        <img src="/images/sam.png" alt="Team Member 3">
         <p>Sam Wong<br>
           High School</p>
       </div>
       <div class="flex-item">
-        <img src="https://via.placeholder.com/150" alt="Team Member 4">
+        <img src="/images/michael.png" alt="Team Member 4">
         <p>Michael Kim<br>
           Loyola High School<br>
           Los Angeles, CA</p>
