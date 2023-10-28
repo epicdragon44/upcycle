@@ -7,7 +7,7 @@
   </div>
   
   <div class="text-container">
-    <h2>About Us</h2>
+    <h2>Our Mission</h2>
     <p>CycleUp! aims to reduce fast fashion with sustainable practices, changing the way we shop with a free clothing swap marketplace.
       <br><br>
       Here at CycleUp! not only can users acquire 'new' free items, but are also reducing the carbon footprint by not allowing unwanted items to end up in landfills polluting our environment. 

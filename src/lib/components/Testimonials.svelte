@@ -5,21 +5,21 @@
 
       <div class="testimonial">
         <div class="message">
-          <p>Upcycle! is amazing! I've been able to find so many great secondhand clothes on here, and it's really helped me reduce my environmental impact.</p>
+          <p>CycleUp! is amazing! I've been able to find so many great secondhand clothes on here, and it's really helped me reduce my environmental impact.</p>
         </div>
         <div class="author">- Sarah J.</div>
       </div>
 
       <div class="testimonial">
         <div class="message">
-          <p>I love Upcycle! because it's so easy to use and I can find clothes that fit my style without breaking the bank. Plus, I feel good knowing that I'm supporting sustainable fashion practices.</p>
+          <p>I love CycleUp! because it's so easy to use and I can find clothes that fit my style without breaking the bank. Plus, I feel good knowing that I'm supporting sustainable fashion practices.</p>
         </div>
         <div class="author">- Alex K.</div>
       </div>
 
       <div class="testimonial">
         <div class="message">
-          <p>Upcycle! has been a game-changer for me. I used to feel guilty about buying new clothes all the time, but now I can shop guilt-free and even sell my own clothes to others who will appreciate them.</p>
+          <p>CycleUp! has been a game-changer for me. I used to feel guilty about buying new clothes all the time, but now I can shop guilt-free and even sell my own clothes to others who will appreciate them.</p>
         </div>
         <div class="author">- Emily L.</div>
       </div>

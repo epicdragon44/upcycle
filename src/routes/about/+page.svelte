@@ -28,12 +28,13 @@
         <img src="/images/janet.png" alt="Team Member 2">
         <p>Janet Ani<br>
           California Academy of Mathematics and Science <br>
-          Carson,CA </p>
+          Carson, CA </p>
       </div>
       <div class="flex-item">
         <img src="/images/sam.png" alt="Team Member 3">
-        <p>Sam Wong<br>
-          High School</p>
+        <p>Samantha Wong<br>
+          Mark Keppel High School<br>
+          Monterey Park, CA</p>
       </div>
       <div class="flex-item">
         <img src="/images/michael.png" alt="Team Member 4">
